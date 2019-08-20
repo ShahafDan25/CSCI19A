@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LargeFactorial
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=java.math.BigInteger\ factorial(long)
+numComments=3

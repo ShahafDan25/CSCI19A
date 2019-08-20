@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Admin
+comment0.text=Admin\ Class
+comment1.params=
+comment1.target=Admin()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ insertingStudents()
+comment4.params=id\ f\ l\ m
+comment4.target=void\ insertStudent(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=void\ removeStudent()
+comment6.params=pid\ pname
+comment6.target=boolean\ validateStudent(int,\ java.lang.String)
+comment7.params=pid
+comment7.target=java.lang.String\ getMajor(int)
+comment8.params=major
+comment8.target=void\ getStudentsWithMajor(java.lang.String)
+numComments=9

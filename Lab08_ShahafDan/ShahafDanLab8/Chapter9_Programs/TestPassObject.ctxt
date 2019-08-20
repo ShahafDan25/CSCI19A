@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TestPassObject
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=Student\:\ Shahaf\ Dan
+comment2.params=c\ times
+comment2.target=void\ printAreas(CircleWithPrivateDataFields,\ int)
+comment2.text=Print\ a\ table\ of\ areas\ for\ radius
+numComments=3

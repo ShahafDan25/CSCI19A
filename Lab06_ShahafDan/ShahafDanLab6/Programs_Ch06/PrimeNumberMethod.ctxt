@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PrimeNumberMethod
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=Student\:\ Shahaf\ Dan
+comment2.params=numberOfPrimes
+comment2.target=void\ printPrimeNumbers(int)
+comment3.params=number
+comment3.target=boolean\ isPrime(int)
+comment3.text=Check\ whether\ number\ is\ prime
+numComments=4

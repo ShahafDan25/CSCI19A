@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=House
+comment1.params=id\ area
+comment1.target=House(int,\ double)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=double\ getArea()
+comment4.params=
+comment4.target=java.util.Date\ getWhenBuilt()
+comment5.params=
+comment5.target=java.lang.Object\ clone()
+comment6.params=o
+comment6.target=int\ compareTo(House)
+numComments=7

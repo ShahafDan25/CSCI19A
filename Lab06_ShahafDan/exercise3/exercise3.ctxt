@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=exercise3
+comment0.text=Student\:\ Shahaf\ Dan
+comment1.params=
+comment1.target=void\ main()
+comment2.params=number
+comment2.target=void\ reverse(int)
+numComments=3

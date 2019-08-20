@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Database
+comment0.text=Honors\ Project\nShahaf\ Dan
+comment1.params=
+comment1.target=java.sql.Connection\ getCon()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=java.util.ArrayList\ showNames()
+comment4.params=id\ f\ l\ major
+comment4.target=void\ insertStudent(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=id
+comment5.target=void\ removeStudent(int)
+comment6.params=name\ id
+comment6.target=boolean\ findStudent(java.lang.String,\ int)
+comment7.params=pid
+comment7.target=java.lang.String\ getMajor(int)
+comment8.params=
+comment8.target=java.util.ArrayList\ getMajors()
+comment9.params=major
+comment9.target=java.util.ArrayList\ getStudentsWithMajor(java.lang.String)
+numComments=10

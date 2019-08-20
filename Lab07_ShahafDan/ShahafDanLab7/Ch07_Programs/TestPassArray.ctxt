@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TestPassArray
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=Student\:\ Shahaf\ Dan
+comment2.params=n1\ n2
+comment2.target=void\ swap(int,\ int)
+comment2.text=Swap\ two\ variables
+comment3.params=array
+comment3.target=void\ swapFirstTwoInArray(int[])
+comment3.text=Swap\ the\ first\ two\ elements\ in\ the\ array
+numComments=4

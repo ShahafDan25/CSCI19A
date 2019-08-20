@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hex2Dec
+comment0.text=Student\:\ Shahaf\ Dan
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=Main\ method
+comment2.params=hex
+comment2.target=int\ hexToDecimal(java.lang.String)
+comment3.params=ch
+comment3.target=int\ hexCharToDecimal(char)
+numComments=4

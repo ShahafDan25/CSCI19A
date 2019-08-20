@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestVoidMethod
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=Student\:\ Shahaf\ Dan
+comment2.params=score
+comment2.target=void\ printGrade(double)
+numComments=3

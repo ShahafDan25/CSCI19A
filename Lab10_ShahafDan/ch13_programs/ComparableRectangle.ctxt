@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ComparableRectangle
+comment1.params=width\ height
+comment1.target=ComparableRectangle(double,\ double)
+comment1.text=Construct\ a\ ComparableRectangle\ with\ specified\ properties
+comment2.params=o
+comment2.target=int\ compareTo(ComparableRectangle)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

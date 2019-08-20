@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TestMax
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=Student\:\ Shahaf\ Dan
+comment2.params=num1\ num2
+comment2.target=int\ max(int,\ int)
+comment2.text=Return\ the\ max\ between\ two\ numbers
+numComments=3

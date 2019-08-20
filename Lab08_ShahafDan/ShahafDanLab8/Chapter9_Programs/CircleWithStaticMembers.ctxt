@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CircleWithStaticMembers
+comment1.params=
+comment1.target=CircleWithStaticMembers()
+comment1.text=Construct\ a\ circle\ with\ radius\ 1
+comment2.params=newRadius
+comment2.target=CircleWithStaticMembers(double)
+comment2.text=Construct\ a\ circle\ with\ a\ specified\ radius
+comment3.params=
+comment3.target=int\ getNumberOfObjects()
+comment3.text=Return\ numberOfObjects
+comment4.params=
+comment4.target=double\ getArea()
+comment4.text=Return\ the\ area\ of\ this\ circle
+numComments=5

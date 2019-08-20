@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=RandomCharacter
+comment1.params=ch1\ ch2
+comment1.target=char\ getRandomCharacter(char,\ char)
+comment1.text=Generate\ a\ random\ character\ between\ ch1\ and\ ch2
+comment2.params=
+comment2.target=char\ getRandomLowerCaseLetter()
+comment2.text=Generate\ a\ random\ lowercase\ letter
+comment3.params=
+comment3.target=char\ getRandomUpperCaseLetter()
+comment3.text=Generate\ a\ random\ uppercase\ letter
+comment4.params=
+comment4.target=char\ getRandomDigitCharacter()
+comment4.text=Generate\ a\ random\ digit\ character
+comment5.params=
+comment5.target=char\ getRandomCharacter()
+comment5.text=Generate\ a\ random\ character
+numComments=6
