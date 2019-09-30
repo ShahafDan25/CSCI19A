@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=DaBa
-comment0.text=Project\ Manager\ Java\ App\ Database\ Manager
-comment1.params=
-comment1.target=java.sql.Connection\ getCon()
-numComments=2

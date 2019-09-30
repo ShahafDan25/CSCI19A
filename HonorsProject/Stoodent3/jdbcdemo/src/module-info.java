@@ -1,9 +1,0 @@
- /**
- * 
- */
-/**
- * @author shahafdan
- *
- */
-module jdbcdemo {
-}
